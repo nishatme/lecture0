@@ -8,7 +8,7 @@ h3 {
 h6 {
 	color: gray;
 }
-.tables {
+div {
 	background-color: teal;
 	width: 300px;
 	height: 150px;
@@ -26,9 +26,4 @@ th, td {
 }
 th {
 	background-color: gray;
-}
-
-.contents {
-	color: white;
-	background-color: black;
 }
